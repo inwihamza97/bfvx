@@ -1,0 +1,6 @@
+{
+  "name": "Lumina BackOffice",
+  "description": "Système de gestion commerciale complet : Achats (Commande, BR, Facture, Avoir), Ventes, Stock et Annuaire Fournisseurs avec gestion d'articles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
